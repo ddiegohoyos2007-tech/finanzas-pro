@@ -34,5 +34,5 @@ Aplicación web moderna, rápida y 100% privada desarrollada con **React + Vite 
 ---
 
 ## Personalización rápida
-- **Monedas:** Puedes añadir más divisas editando el arreglo `CURRENCIES` en `src/App.jsx`.
-- **Categorías de gastos:** Edita las opciones del `<select>` en el formulario de movimientos dentro de `src/App.jsx`.
+- **Monedas:** Puedes añadir más divisas editando el arreglo `CURRENCIES` en `App.jsx`.
+- **Categorías de gastos:** Edita las opciones del `<select>` en el formulario de movimientos dentro de `App.jsx`.
